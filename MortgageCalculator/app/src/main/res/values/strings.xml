@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MortgageCalculator</string>
+    <string name="seek_bar_value">Value: 10.00</string>
+    <string name="error_message">Nothing_to_display</string>
+</resources>
