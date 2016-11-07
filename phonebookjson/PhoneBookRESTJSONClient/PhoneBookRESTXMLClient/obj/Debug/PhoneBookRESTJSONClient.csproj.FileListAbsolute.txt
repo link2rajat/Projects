@@ -1,0 +1,17 @@
+C:\books\2012\VCSHARP2012HTP\solutions\sol_ch30\ex30_05\PhoneBookRESTJSONClient\PhoneBookRESTXMLClient\bin\PhoneBookRESTXMLClient.dll
+C:\books\2012\VCSHARP2012HTP\solutions\sol_ch30\ex30_05\PhoneBookRESTJSONClient\PhoneBookRESTXMLClient\bin\PhoneBookRESTXMLClient.pdb
+C:\books\2012\VCSHARP2012HTP\solutions\sol_ch30\ex30_05\PhoneBookRESTJSONClient\PhoneBookRESTXMLClient\obj\Debug\PhoneBookRESTJSONClient.csprojResolveAssemblyReference.cache
+C:\books\2012\VCSHARP2012HTP\solutions\sol_ch30\ex30_05\PhoneBookRESTJSONClient\PhoneBookRESTXMLClient\obj\Debug\PhoneBookRESTXMLClient.dll
+C:\books\2012\VCSHARP2012HTP\solutions\sol_ch30\ex30_05\PhoneBookRESTJSONClient\PhoneBookRESTXMLClient\obj\Debug\PhoneBookRESTXMLClient.pdb
+C:\cecs475sp16\lab6\ex30_05\PhoneBookRESTJSONClient\PhoneBookRESTXMLClient\bin\PhoneBookRESTXMLClient.dll.config
+C:\cecs475sp16\lab6\ex30_05\PhoneBookRESTJSONClient\PhoneBookRESTXMLClient\bin\PhoneBookRESTXMLClient.dll
+C:\cecs475sp16\lab6\ex30_05\PhoneBookRESTJSONClient\PhoneBookRESTXMLClient\bin\PhoneBookRESTXMLClient.pdb
+C:\cecs475sp16\lab6\ex30_05\PhoneBookRESTJSONClient\PhoneBookRESTXMLClient\obj\Debug\PhoneBookRESTJSONClient.csprojResolveAssemblyReference.cache
+C:\cecs475sp16\lab6\ex30_05\PhoneBookRESTJSONClient\PhoneBookRESTXMLClient\obj\Debug\PhoneBookRESTXMLClient.dll
+C:\cecs475sp16\lab6\ex30_05\PhoneBookRESTJSONClient\PhoneBookRESTXMLClient\obj\Debug\PhoneBookRESTXMLClient.pdb
+O:\Docs\DotNet\phonebookjson\PhoneBookRESTJSONClient\PhoneBookRESTXMLClient\bin\PhoneBookRESTXMLClient.dll.config
+O:\Docs\DotNet\phonebookjson\PhoneBookRESTJSONClient\PhoneBookRESTXMLClient\bin\PhoneBookRESTXMLClient.dll
+O:\Docs\DotNet\phonebookjson\PhoneBookRESTJSONClient\PhoneBookRESTXMLClient\bin\PhoneBookRESTXMLClient.pdb
+O:\Docs\DotNet\phonebookjson\PhoneBookRESTJSONClient\PhoneBookRESTXMLClient\obj\Debug\PhoneBookRESTJSONClient.csprojResolveAssemblyReference.cache
+O:\Docs\DotNet\phonebookjson\PhoneBookRESTJSONClient\PhoneBookRESTXMLClient\obj\Debug\PhoneBookRESTXMLClient.dll
+O:\Docs\DotNet\phonebookjson\PhoneBookRESTJSONClient\PhoneBookRESTXMLClient\obj\Debug\PhoneBookRESTXMLClient.pdb

@@ -1,0 +1,10 @@
+C:\books\2012\VCSHARP2012HTP\solutions\sol_ch30\ex30_03\PhoneBookRESTXMLClient\PhoneBookRESTXMLClient\bin\PhoneBookRESTXMLClient.dll
+C:\books\2012\VCSHARP2012HTP\solutions\sol_ch30\ex30_03\PhoneBookRESTXMLClient\PhoneBookRESTXMLClient\bin\PhoneBookRESTXMLClient.pdb
+C:\books\2012\VCSHARP2012HTP\solutions\sol_ch30\ex30_03\PhoneBookRESTXMLClient\PhoneBookRESTXMLClient\obj\Debug\PhoneBookRESTXMLClient.csprojResolveAssemblyReference.cache
+C:\books\2012\VCSHARP2012HTP\solutions\sol_ch30\ex30_03\PhoneBookRESTXMLClient\PhoneBookRESTXMLClient\obj\Debug\PhoneBookRESTXMLClient.dll
+C:\books\2012\VCSHARP2012HTP\solutions\sol_ch30\ex30_03\PhoneBookRESTXMLClient\PhoneBookRESTXMLClient\obj\Debug\PhoneBookRESTXMLClient.pdb
+C:\books\2012\VCSHARP2012HTP\solutions\sol_ch30\ex30_04\PhoneBookRESTXMLClient\PhoneBookRESTXMLClient\bin\PhoneBookRESTXMLClient.dll
+C:\books\2012\VCSHARP2012HTP\solutions\sol_ch30\ex30_04\PhoneBookRESTXMLClient\PhoneBookRESTXMLClient\bin\PhoneBookRESTXMLClient.pdb
+C:\books\2012\VCSHARP2012HTP\solutions\sol_ch30\ex30_04\PhoneBookRESTXMLClient\PhoneBookRESTXMLClient\obj\Debug\PhoneBookRESTXMLClient.csprojResolveAssemblyReference.cache
+C:\books\2012\VCSHARP2012HTP\solutions\sol_ch30\ex30_04\PhoneBookRESTXMLClient\PhoneBookRESTXMLClient\obj\Debug\PhoneBookRESTXMLClient.dll
+C:\books\2012\VCSHARP2012HTP\solutions\sol_ch30\ex30_04\PhoneBookRESTXMLClient\PhoneBookRESTXMLClient\obj\Debug\PhoneBookRESTXMLClient.pdb

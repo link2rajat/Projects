@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="PhoneBookModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2008" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="PhoneBook">
+    <Key>
+      <PropertyRef Name="PhoneNumber" />
+    </Key>
+    <Property Name="LastName" Type="nchar" MaxLength="50" />
+    <Property Name="FirstName" Type="nchar" MaxLength="50" />
+    <Property Name="PhoneNumber" Type="nchar" MaxLength="15" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="PhoneBookModelStoreContainer">
+    <EntitySet Name="PhoneBook" EntityType="Self.PhoneBook" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>
